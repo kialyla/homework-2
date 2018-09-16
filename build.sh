@@ -4,4 +4,4 @@ cat templates/top.html content/index.html templates/bottom.html > docs/index.htm
 
 cat templates/top.html content/projects.html templates/bottom.html > docs/projects.html
 
-cat templates/top.htmml content/resume.html templates/bottom.html > docs/resume.html
+cat templates/top.html content/resume.html templates/bottom.html > docs/resume.html
