@@ -7,9 +7,9 @@ body {
 
 }
 
-.name {
+.full-name  {
     font-family: 'Shadows Into Light', cursive;
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 25px;
 }
@@ -34,11 +34,9 @@ h1, {
     text-align: center;
 }
 
-.buttons,  {
+.buttons  {
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
-}
-
 }
 
 .not-italic {
@@ -46,8 +44,9 @@ h1, {
     font-size: 20pt;
 }
 
-.italic {
-    
+.profile-img {
+    width: 380px;
+    height: 454px;
 }
 
 
